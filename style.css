@@ -1,0 +1,92 @@
+.socials-icon {
+  height: 1.5rem;
+}
+
+.navbar {
+  background-color: #98c1d9 !important;
+}
+
+.navbar .nav-link .nav-item {
+  color: #293241 !important;
+}
+
+.navbar-brand {
+  color: #293241;
+}
+
+.dropdown-menu {
+  background-color: #98c1d9;
+}
+
+.dropdown-item {
+  color: #293241;
+}
+
+body {
+  color: #293241;
+}
+
+.hero-text {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 0.5rem;
+}
+
+.hero-text .contact-text {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.btn-hero {
+  border-radius: 80rem;
+  background-color: #ee6c4d;
+}
+
+#home {
+  height: 100vh;
+  background-color: #e0fbfc;
+}
+
+#portfolio-sec {
+  background-color: #98c1d9;
+}
+
+.hero-content {
+  height: 100%;
+  color: #293241 !important;
+}
+
+.hero-flex {
+  height: 100%;
+  justify-content: center;
+}
+
+.portfolio-header {
+  font-size: 2.5rem;
+}
+
+.about-flex {
+  height: auto;
+}
+
+#footer {
+  background-color: #3d5a80 !important;
+}
+
+#about {
+  background-color: #e0fbfc;
+}
+
+.contact {
+  background-color: #98c1d9;
+  color: #293241;
+}
+
+.footer-text {
+  color: white;
+}
+
+.contact-banner {
+  margin-left: 0;
+  margin-right: 0;
+}
